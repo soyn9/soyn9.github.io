@@ -4,7 +4,7 @@
     "subtitle": "얼굴로 보는 인공지능 국적 테스트",
     "footerText": "&copy; 콩농장 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/b3GgW0y2g/",
     "classDetails": [
         {
             "name": "한국인",
